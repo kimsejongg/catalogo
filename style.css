@@ -5,16 +5,16 @@ body{
 }
 
 header{
-border-bottom: solid 2px black;
-pedding: 20px;
-font-size: 32px;
-color:black;
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color:black;
 }
 
 section{
-background-color:rgb(179, 179, 183) ;
-padding-top: 80px;
-padding-bottom: 80px;
-display:flex;
-justify-content:center;
+    background-color:rgb(179, 179, 183);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content:center;
 }
